@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá 👋, eu sou Eduardo Lima.
+<br> 
+<p align="justify"> Gosto de trabalhar em equipe, participar de projetos, ver o crescimento profissional contínuo,
+sou comunicativo e aprecio novas tecnologias do mercado e estou sempre a disposição para
+aprender algo novo, gosto de desafios pois são eles que nos tornamos mais vivos. </p>
 
-<!--
-**sleduardo20/sleduardo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="justify"> Já trabalhei de designer gráfico e como desenvolvedor de relatórios SQL,
+tenho experiência em sistemas gerenciais (suporte, implantação e consultoria)
+mas minha paixão é Front End, gosto de saber como que funciona nos bastidores, 
+estou estudando e praticando para realizar esse sonho de ser desenvolvedor Front End. </p>
 
-Here are some ideas to get you started:
+<p align="justify"> No tempo livre gosto de 💻games(Overwath, GTA), 🎬 filmes, 📚livros, 🌅praias e curtir com a 👪família.
+<br><br>
+Quer entrar em contato 👍?
+<br>
+  
+Vamos conversar [Linkedin](https://www.linkedin.com/in/eduardo-sousa-lima-04693617a/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+
+
