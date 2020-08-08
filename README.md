@@ -7,7 +7,7 @@ aprender algo novo, gosto de desafios pois são eles que nos tornamos mais vivos
 <p align="justify"> Já trabalhei de designer gráfico e como desenvolvedor de relatórios SQL,
 tenho experiência em sistemas gerenciais (suporte, implantação e consultoria)
 mas minha paixão é Front End, gosto de saber como que funciona nos bastidores, 
-estou estudando e praticando para realizar esse sonho de ser desenvolvedor Front End. </p>
+estou estudando e praticando para realizar esse sonho de seguir carreira como desenvolvedor Front End. </p>
 
 <p align="justify"> No tempo livre gosto de 💻games(Overwath, GTA), 🎬 filmes, 📚livros, 🌅praias e curtir com a 👪família.
 <br><br>
