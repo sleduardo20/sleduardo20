@@ -1,6 +1,6 @@
 ### Olá 👋, eu sou Eduardo Lima.
 <br> 
-<p align="justify">Apaixonado por tecnologiase estou sempre a disposição para
+<p align="justify">Apaixonado por tecnologia estou sempre a disposição para
 aprender algo novo, gosto de desafios pois são eles que nos tornamos mais vivos. </p>
 
 <p align="justify"> Já trabalhei de designer gráfico e como desenvolvedor de relatórios SQL,
