@@ -4,8 +4,8 @@
 aprender algo novo, gosto de desafios pois são eles que nos tornamos mais vivos. </p>
 
 <p align="justify"> Atuei como designer gráfico e analista de relatórios gerenciais com SQL,
-tenho experiência em sistemas gerenciais (suporte, implantação e consultoria) apaixonado 
-por Front End e suas tecnologias. Sou curioso, gosto de saber como o sistema funciona e 
+tenho experiência em sistemas gerenciais (suporte, implantação e consultoria).
+Adoro Front End e suas tecnologias,sou curioso gosto de saber como o sistema funciona e 
 como podemos impactar a vida das pessoas atráves da tecnologia.
 </p>
 
