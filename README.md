@@ -14,7 +14,8 @@ como podemos impactar a vida das pessoas atráves da tecnologia.
 Quer entrar em contato 👍?
 <br>
   
-Vamos conversar [Linkedin](https://www.linkedin.com/in/eduardo-sousa-lima-04693617a/)
+Vamos conversar    
+[<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;width: 100px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtnHXQfP9FljAInmv6QX4wErR7xMzF_A0EZw&amp;usqp=CAU">](https://www.linkedin.com/in/eduardo-sousa-lima-04693617a/)
 
 </p>
 
