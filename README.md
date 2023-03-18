@@ -3,7 +3,7 @@
 <p align="justify">Desenvolvedor Front End apaixonado por tecnologia e sempre a disposição para
 aprender algo novo, gosto de desafios pois são eles que nos tornamos mais fortes. </p>
 
-<p align="justify"> No tempo livre gosto de 💻games(Overwath, GTA), 🎬 filmes, 📚livros, 🌅praias e curtir com a 👪família.
+<p align="justify"> No tempo livre gosto de 💻🎮 games, 🎬 filmes, 📚livros, 🌅praias e curtir com a 👪família.
 <br>
   
 Vamos trocar uma idéia 👍?
