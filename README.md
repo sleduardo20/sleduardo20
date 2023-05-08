@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=5000&color=0750B9&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Eduardo+Lima!)](https://git.io/typing-svg)
 
- <img width="41%" height="195px" src="https://github-readme-stats-five-psi-74.vercel.app/api/top-langs/?username=sleduardo20&layout=compact&hide_border=true&title_color=0750B9&text_color=039bf8&bg_color=0d1117" />
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sleduardo20&show_icons=true&theme=react&bg_color=0d1117&icon_color=0750B9&title_color=0750B9" />
 
 ![Github activity](https://github-readme-activity-graph.cyclic.app/graph?username=sleduardo20&theme=react)
 
